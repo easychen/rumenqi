@@ -4,6 +4,14 @@
 
 ![](http://ww3.sinaimg.cn/large/40dfde6fjw1f3b6kpr068j20gi0k50ur.jpg)
 
+## T恤在线生成工具
+
+主要提供给大家设计文案、预览效果、分享到微博获取反馈。如果要印制的话，最终还是要手工修改PSD的。
+地址 → http://3.deerface.sinaapp.com/
+
+![](http://ww4.sinaimg.cn/large/40dfde6fjw1f3boptowh1j20pi0jjgpr.jpg)
+
+
 ## 使用方式
 star本repo（笑），然后fork。双击PSD文件打开，可以更换文案、替换动物图（ CopyFreeImage目录下为大家准备可以直接使用的CC0协议图片资源 ）。
 
